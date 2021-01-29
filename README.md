@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on above technologies
 - 🤔 I’m looking for help with Flutter
 - 📫 How to reach me: [Twitter - @gsamip23][twitter]
-- 🥅 2020 Goals: Develop two real world applications
-- ⚡ Fun fact: I love to run and play guitar when I am away from Computers
+- 🥅 2021 Goals: Develop two real world applications
+- ⚡ Fun fact: I love to run, explore nature and play guitar when I am away from Computers
 
 ### Connect with me:
 
